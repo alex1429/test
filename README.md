@@ -3,6 +3,7 @@ test
 После установки выполнить:
 
 yii migrate
+
 yii rbac/init
 
 admin
